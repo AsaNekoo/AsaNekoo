@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AsaNekoo
 - 👀 I’m interested in some anime shit
-- 🌱 I’m currently learning Japanese, Js, Ts, RUST
+- 🌱 Learning JavaScript, TypeScript
