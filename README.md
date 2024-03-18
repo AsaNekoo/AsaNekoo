@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @AsaNekoo
+- 👋 Hi, I’m AsaNeko
 - 👀 I’m interested in some anime shit
 - 🌱 Learning JavaScript, TypeScript
